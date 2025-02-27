@@ -1,4 +1,4 @@
-# Big O Notation for JavaScript Built-in Searching Techniques
+# Searching Techniques and Big O Notation
 
 ## Introduction
 Searching is a fundamental operation in computer science that involves finding a specific element within a collection of elements. Efficient searching techniques are crucial for optimizing performance in various applications.
@@ -64,7 +64,3 @@ const index = array.findIndex(element => element > 3); // Returns 3
 const array = [1, 2, 3, 4, 5];
 const hasElement = array.includes(3); // Returns true
 ```
-
-## Conclusion
-Understanding and utilizing built-in JavaScript methods for searching can greatly simplify and optimize the process of finding elements within arrays. Each method has its own use case and can be chosen based on the specific requirements of the task at hand.
- Searching Notes
